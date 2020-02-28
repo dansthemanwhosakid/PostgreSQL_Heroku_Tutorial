@@ -5,6 +5,10 @@ Authors: Daniel Kim & Dae Han
 
 **To examine a real-life project application of this notebook, click here on Dae's [capstone](https://github.com/dae-han/nyc_homeless_pop_prediction/blob/master/production/1_Data_Wrangling%2BDatabase_Construction.ipynb). He built a time series model to forecast the total number of individuals sheltered by the NYC Department of Homeless Services (DHS).**
 
+[Click here](https://github.com/dansthemanwhosakid/PostgreSQL_Heroku_Tutorial/blob/master/SQL_database.ipynb) to download the Jupyter Notebook that explains how to create a Heroku account, add a PostgreSQL server, and upload a sample Pandas dataFrame to the server.
+
+The following instructions down below are found in the linked notebook above!
+
 **First, go to heroku and sign up for a free account -  https://www.heroku.com/postgres**
 
 **Click "Create new app"**
